@@ -2,7 +2,8 @@
     "name": "Trinket_Mouse",
     "description": "",
     "dependencies": {
-        "adafruit-trinket-m0": "*"
+        "adafruit-trinket-m0": "*",
+        "mouse": "*"
     },
     "files": [
         "main.blocks",
